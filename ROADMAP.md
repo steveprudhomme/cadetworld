@@ -8,7 +8,9 @@
 - [x] Vérifier le Markdown, les liens locaux et la préservation de l’annuaire.
 - [x] Créer un commit, intégrer les changements à `main` et les publier sur GitHub.
 
-Aucune image ni adresse SensCritique n’a été fournie pour cette critique.
+- [x] Intégrer l’[image fournie](critiques/images/FirstStart.png) après la publication initiale dans la page de critique.
+
+Aucune adresse SensCritique n’a été fournie pour cette critique.
 
 ## Critique de Hard Knox (1984)
 

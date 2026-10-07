@@ -4,6 +4,8 @@
 
 [Retour à la notice du film](../CinemaFictionCadets.MD#film-5) · [Letterboxd](https://letterboxd.com/sprudhom/film/first-start/)
 
+![Cadets au cinéma — First Start (Pierwszy start, 1951), critique de Steve Prud’Homme, note globale de 3,5 sur 5](images/FirstStart.png)
+
 🎬 **Un film de propagande, certainement. Mais aussi un film qui donne envie de voler.**
 
 Je poursuis mon exploration des films consacrés aux cadets, aux écoles militaires et aux mouvements de jeunesse à travers le monde avec un film polonais assez fascinant : *Pierwszy start*, réalisé par Leonard Buczkowski en 1951.
