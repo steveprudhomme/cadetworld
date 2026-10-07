@@ -4,7 +4,7 @@ Merci de contribuer à un répertoire mondial exact et utile.
 
 ## Signaler une information
 
-Utilisez le lien « Signaler » du README ou une issue de correction / nouvelle organisation. Indiquez le pays ou territoire, le nom, le niveau national ou territorial, l’élément, les URL directes et une source institutionnelle qui permet de les authentifier. Un compte non trouvé ne doit pas être déclaré inexistant.
+Utilisez l’icône 🔄 du README ou une issue de correction / nouvelle organisation. Indiquez le pays ou territoire, le nom, le niveau national ou territorial, l’élément, les URL directes et une source institutionnelle qui permet de les authentifier. Un compte non trouvé ne doit pas être déclaré inexistant.
 
 ## Proposer une modification
 

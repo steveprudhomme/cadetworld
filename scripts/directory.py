@@ -13,8 +13,8 @@ LABELS = {'confirme_source_officielle': '✅ Source officielle', 'a_confirmer': 
 def table():
     rows = json.loads((ROOT / 'data/organizations.json').read_text(encoding='utf-8'))
     assert len({r['id'] for r in rows}) == len(rows), 'Duplicate IDs'
-    result = ['| ID | Pays / territoire | Organisation | Type / élément | Instagram | Facebook | Vérification (IG / FB) | Mise à jour |', '|---|---|---|---|---|---|---|---|']
-    for row in rows:
+    result = ['| N° / ID | Pays / territoire | Organisation | Type / élément | Instagram | Facebook | Vérification (IG / FB) | Mise à jour |', '|---|---|---|---|---|---|---|---|']
+    for number, row in enumerate(rows, 1):
         assert re.fullmatch(r'CW-\d{3,}', row['id'])
         social = []
         for network in ('instagram', 'facebook'):
@@ -28,12 +28,12 @@ def table():
             if status == 'confirme_source_officielle':
                 assert row['sources'], 'Confirmed profiles require a source'
             social.append(f'[@{urlsplit(url).path.strip("/")}]({url})' if url else 'Non identifié')
-        subject = f"Cadet World — mise à jour {row['id']} — {row['organization']}"
-        mail = 'mailto:sprudhom@gmail.com?subject=' + quote(subject, safe='')
+        subject = f"Cadet World — correction ligne {number} — {row['id']}"
+        mail = 'mailto:steveprudhommecadets@hotmail.com?subject=' + quote(subject, safe='')
         assert parse_qs(urlsplit(mail).query)['subject'] == [subject]
         status = ' / '.join(LABELS[row[n + '_status']] for n in ('instagram', 'facebook'))
         status += ''.join(f' [Source {i}]({url})' for i, url in enumerate(row['sources'], 1))
-        cells = [row['id'], row['country'], row['organization'], row['type'], *social, status, f'[✉ Signaler]({mail})']
+        cells = [f"{number} / {row['id']}", row['country'], row['organization'], row['type'], *social, status, f'[🔄]({mail})']
         assert all('|' not in x and '\n' not in x for x in cells)
         result.append('| ' + ' | '.join(cells) + ' |')
     return '\n'.join(result)
