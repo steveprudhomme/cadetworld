@@ -66,6 +66,10 @@ L’icône **🔄** de chaque ligne ouvre votre logiciel de courriel vers **stev
 
 Les lignes NCC Air District et NCC Sea District ne disposent pas d’un Facebook distinct identifié; la page centrale figure sur la ligne NCC Singapore. Les comptes de Türk Hava Kurumu et de Flygvapenfrivilliga représentent l’organisme national et ne sont pas nécessairement réservés aux cadets.
 
+## Cinéma de fiction et cadets
+
+La [filmographie des cadets — CinemaFictionCadets.MD](CinemaFictionCadets.MD) recense les films, téléfilms et séries identifiés dans la recherche, avec leurs langues et les liens de visionnement retrouvés. Elle reprend les 39 organisations de cet annuaire avec leurs identifiants CW et distingue les rattachements directs, les écoles militaires et les organisations historiques ou fictives comparables. Les organisations sans fiction identifiée restent explicitement mentionnées.
+
 ## Proposer une correction ou une organisation
 
 Consultez le [guide de contribution](CONTRIBUTING.md), utilisez les modèles d’issues du dépôt ou le lien de signalement de la ligne concernée. Merci de fournir une source officielle et de privilégier les coordonnées publiques des organisations.
