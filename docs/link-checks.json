@@ -1,0 +1,327 @@
+{
+  "note": "HTTP success is not proof of account ownership. Errors may reflect access restrictions.",
+  "links": [
+    {
+      "url": "https://combinedcadetforce.org.uk/",
+      "checked_at": "2026-10-07T00:54:27.520552+00:00",
+      "http_status": 200,
+      "final_url": "https://combinedcadetforce.org.uk/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.armycadets.gov.au/",
+      "checked_at": "2026-10-07T00:54:27.520956+00:00",
+      "http_status": 200,
+      "final_url": "https://www.armycadets.gov.au/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.canada.ca/en/department-national-defence/services/cadets-junior-canadian-rangers/cadets.html",
+      "checked_at": "2026-10-07T00:54:27.521194+00:00",
+      "http_status": null,
+      "result": "indeterminate_requires_review",
+      "detail": "The read operation timed out"
+    },
+    {
+      "url": "https://www.facebook.com/509079162576202/",
+      "checked_at": "2026-10-07T00:54:27.521366+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/people/Jamaica-Combined-Cadet-Force/100064940850311/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/Armycadetforce/",
+      "checked_at": "2026-10-07T00:54:27.521634+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/Armycadetforce/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/BBCadets/",
+      "checked_at": "2026-10-07T00:54:27.753619+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/BBCadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/NCDCC/",
+      "checked_at": "2026-10-07T00:54:27.916807+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/NCDCC/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/NavyCadetsAUS/",
+      "checked_at": "2026-10-07T00:54:28.004956+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/NavyCadetsAUS/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/SeaCadetsUK/",
+      "checked_at": "2026-10-07T00:54:28.089363+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/SeaCadetsUK/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/SeaExplorersofKorea/",
+      "checked_at": "2026-10-07T00:54:28.100047+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/SeaExplorersofKorea/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/TTCadets/",
+      "checked_at": "2026-10-07T00:54:28.195458+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/TTCadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/ZKKNL/",
+      "checked_at": "2026-10-07T00:54:28.253772+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/ZKKNL/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/aircadets/",
+      "checked_at": "2026-10-07T00:54:28.270295+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/aircadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/ausarmycadets/",
+      "checked_at": "2026-10-07T00:54:28.414089+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/ausarmycadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/belgianaircadets/",
+      "checked_at": "2026-10-07T00:54:28.442372+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/belgianaircadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/cadetsca/",
+      "checked_at": "2026-10-07T00:54:28.554130+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/cadetsca/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/cadetsinschools/",
+      "checked_at": "2026-10-07T00:54:28.584944+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/cadetsinschools/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/capnhq/",
+      "checked_at": "2026-10-07T00:54:28.604603+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/capnhq/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/nzcf1/",
+      "checked_at": "2026-10-07T00:54:28.734548+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/nzcf1/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/sgncc.hq/",
+      "checked_at": "2026-10-07T00:54:28.766140+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/sgncc.hq/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/southafricanseacadets/",
+      "checked_at": "2026-10-07T00:54:28.769936+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/southafricanseacadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.facebook.com/usnscc/",
+      "checked_at": "2026-10-07T00:54:28.882152+00:00",
+      "http_status": 200,
+      "final_url": "https://www.facebook.com/usnscc/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.gocivilairpatrol.com/",
+      "checked_at": "2026-10-07T00:54:28.921885+00:00",
+      "http_status": 200,
+      "final_url": "https://www.gocivilairpatrol.com/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/aerissusceptor/",
+      "checked_at": "2026-10-07T00:54:28.995781+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/aerissusceptor/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/aircadets/",
+      "checked_at": "2026-10-07T00:54:29.042735+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/aircadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/airforcecadets/",
+      "checked_at": "2026-10-07T00:54:29.108965+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/airforcecadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/americaseacadets/",
+      "checked_at": "2026-10-07T00:54:29.173903+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/americaseacadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/armycadetsuk/",
+      "checked_at": "2026-10-07T00:54:29.186604+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/armycadetsuk/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/ausarmycadets/",
+      "checked_at": "2026-10-07T00:54:29.244349+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/ausarmycadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/australian_navy_cadets/",
+      "checked_at": "2026-10-07T00:54:29.327557+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/australian_navy_cadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/belgianaircadets/",
+      "checked_at": "2026-10-07T00:54:29.340539+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/belgianaircadets/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/cadetforces/",
+      "checked_at": "2026-10-07T00:54:29.356013+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/cadetforces/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/cadetsca/",
+      "checked_at": "2026-10-07T00:54:29.399007+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/cadetsca/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/cadetsinschools/",
+      "checked_at": "2026-10-07T00:54:29.473793+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/cadetsinschools/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/civilairpatrol/",
+      "checked_at": "2026-10-07T00:54:29.504904+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/civilairpatrol/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/dg_ncc/",
+      "checked_at": "2026-10-07T00:54:29.507215+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/dg_ncc/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/flygvapenfrivilliga/",
+      "checked_at": "2026-10-07T00:54:29.554915+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/flygvapenfrivilliga/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/iace_france/",
+      "checked_at": "2026-10-07T00:54:29.637342+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/iace_france/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/nccseadistrict/",
+      "checked_at": "2026-10-07T00:54:29.645271+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/nccseadistrict/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/ncdcc_official/",
+      "checked_at": "2026-10-07T00:54:29.667816+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/ncdcc_official/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/seacadetsuk/",
+      "checked_at": "2026-10-07T00:54:29.700489+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/seacadetsuk/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/sg_ncc/",
+      "checked_at": "2026-10-07T00:54:29.789008+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/sg_ncc/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/thettcf/",
+      "checked_at": "2026-10-07T00:54:29.791104+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/thettcf/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/turkhavakurumu/",
+      "checked_at": "2026-10-07T00:54:29.810524+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/turkhavakurumu/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.instagram.com/zeekadetkorpsnederland/",
+      "checked_at": "2026-10-07T00:54:29.866102+00:00",
+      "http_status": 200,
+      "final_url": "https://www.instagram.com/zeekadetkorpsnederland/",
+      "result": "http_response_not_identity_verification"
+    },
+    {
+      "url": "https://www.navycadets.gov.au/",
+      "checked_at": "2026-10-07T00:54:29.951582+00:00",
+      "http_status": 200,
+      "final_url": "https://www.navycadets.gov.au/",
+      "result": "http_response_not_identity_verification"
+    }
+  ]
+}
