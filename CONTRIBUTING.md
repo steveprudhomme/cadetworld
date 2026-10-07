@@ -1,4 +1,4 @@
-# Contribuer à Cadet World
+# Contribuer à GNU Cadet World
 
 Merci de contribuer à un répertoire mondial exact et utile.
 

@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parents[1]
 def check(url):
     item = {'url': url, 'checked_at': datetime.datetime.now(datetime.timezone.utc).isoformat()}
     try:
-        request = urllib.request.Request(url, headers={'User-Agent': 'CadetWorld-LinkCheck/1.0'})
+        request = urllib.request.Request(url, headers={'User-Agent': 'GNU-CadetWorld-LinkCheck/1.0'})
         with urllib.request.urlopen(request, timeout=15) as response:
             item.update(http_status=response.status, final_url=response.url, result='http_response_not_identity_verification')
     except urllib.error.HTTPError as exc:

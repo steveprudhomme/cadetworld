@@ -28,7 +28,7 @@ def table():
             if status == 'confirme_source_officielle':
                 assert row['sources'], 'Confirmed profiles require a source'
             social.append(f'[@{urlsplit(url).path.strip("/")}]({url})' if url else 'Non identifié')
-        subject = f"Cadet World — correction ligne {number} — {row['id']}"
+        subject = f"GNU Cadet World — correction ligne {number} — {row['id']}"
         mail = 'mailto:steveprudhommecadets@hotmail.com?subject=' + quote(subject, safe='')
         assert parse_qs(urlsplit(mail).query)['subject'] == [subject]
         status = ' / '.join(LABELS[row[n + '_status']] for n in ('instagram', 'facebook'))

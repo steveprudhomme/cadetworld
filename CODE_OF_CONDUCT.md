@@ -1,6 +1,6 @@
 # Code de conduite
 
-La communauté Cadet World accueille les contributions de toutes les personnes, quels que soient leur origine, leur âge, leur identité, leur handicap, leurs convictions ou leur expérience.
+La communauté GNU Cadet World accueille les contributions de toutes les personnes, quels que soient leur origine, leur âge, leur identité, leur handicap, leurs convictions ou leur expérience.
 
 Échangez avec respect, apportez des sources, acceptez les corrections et discutez des informations sans attaquer les personnes. Le harcèlement, les menaces, les propos discriminatoires, la divulgation de données privées et les contenus sexualisant des mineurs sont interdits.
 
