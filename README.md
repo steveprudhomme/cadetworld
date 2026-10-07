@@ -68,7 +68,9 @@ Les lignes NCC Air District et NCC Sea District ne disposent pas d’un Facebook
 
 ## Cinéma de fiction et cadets
 
-La [filmographie des cadets — CinemaFictionCadets.MD](CinemaFictionCadets.MD) recense les films, téléfilms et séries identifiés dans la recherche, avec leurs langues et les liens de visionnement retrouvés. Elle reprend les 39 organisations de cet annuaire avec leurs identifiants CW et distingue les rattachements directs, les écoles militaires et les organisations historiques ou fictives comparables. Les organisations sans fiction identifiée restent explicitement mentionnées.
+La [filmographie des cadets — CinemaFictionCadets.MD](CinemaFictionCadets.MD) recense les films, téléfilms et séries identifiés dans la recherche, avec leurs langues et les liens de visionnement retrouvés. Elle reprend les 39 organisations de cet annuaire avec leurs identifiants CW. Les organisations sans fiction identifiée restent explicitement mentionnées.
+
+Les cadres absents de l’annuaire sont présentés dans trois sections séparées : [écoles militaires, réelles ou fictives](CinemaFictionCadets.MD#ecoles-hors-annuaire), [organisations historiques](CinemaFictionCadets.MD#historiques-hors-annuaire) et [groupes aéronautiques fictifs](CinemaFictionCadets.MD#groupes-fictifs-hors-annuaire). Ces derniers ne sont pas attribués à une organisation réelle de cadets.
 
 ## Proposer une correction ou une organisation
 

@@ -12,14 +12,15 @@ Compilation : **6 octobre 2026**. Les titres, langues et rattachements provienne
 
 - **Rattachement direct** : l’organisation est identifiée dans le récit; le lien CW indique son entrée dans l’annuaire.
 - **École militaire** : établissement secondaire ou collège militaire, réel ou fictif, à distinguer des mouvements jeunesse.
-- **Analogue** : organisation historique de préparation à la défense ou groupe fictif comparable; aucune affiliation à un organisme CW n’est affirmée.
+- **Organisation historique hors annuaire** : organisme réel de préparation à la défense, conservé dans une section distincte.
+- **Groupe fictif hors annuaire** : club ou programme inventé pour le récit, conservé dans sa propre section sans rattachement CW.
 - **Annexe** : dramatisation institutionnelle ou apparition d’une organisation sans son programme de cadets.
 
 Les pays indiquent la production telle que recensée dans la conversation, et non nécessairement le pays de l’organisation représentée. Les langues sont les langues originales; une version proposée en ligne peut être doublée.
 
 ## Correspondance avec toutes les organisations du README
 
-Les identifiants renvoient à l’[annuaire mondial](README.md#annuaire-mondial). Les établissements et organismes historiques absents de cet annuaire sont regroupés plus bas.
+Les identifiants renvoient à l’[annuaire mondial](README.md#annuaire-mondial). Ce tableau est réservé aux organisations qui y figurent. Les écoles militaires, organismes historiques et groupes fictifs absents de l’annuaire ont chacun une section distincte, accessible dans le sommaire ci-dessous.
 
 | ID | Pays / territoire | Organisation du README | Œuvres et nature du lien |
 |---|---|---|---|
@@ -32,7 +33,7 @@ Les identifiants renvoient à l’[annuaire mondial](README.md#annuaire-mondial)
 | CW-007 | Australie | Australian Air Force Cadets | Aucune fiction identifiée dans la conversation pour cette organisation. |
 | CW-008 | Australie | Australian Navy Cadets | Aucune fiction identifiée dans la conversation pour cette organisation. |
 | CW-009 | Nouvelle-Zélande | New Zealand Cadet Forces | Aucune fiction identifiée dans la conversation pour cette organisation. |
-| CW-010 | États-Unis | Civil Air Patrol — National Headquarters | Aucune fiction centrée sur les CAP Cadets confirmée. [Iron Eagle](#film-18) et [Iron Eagle IV](#film-21) : analogues fictifs seulement. [Deux apparitions du CAP hors programme jeunesse](#annexe-cap). |
+| CW-010 | États-Unis | Civil Air Patrol — National Headquarters | Aucune fiction centrée sur les CAP Cadets confirmée. [Deux apparitions du CAP hors programme jeunesse](#annexe-cap). |
 | CW-011 | États-Unis | U.S. Naval Sea Cadet Corps / America's Sea Cadets | Aucune fiction identifiée dans la conversation pour cette organisation. |
 | CW-012 | France | Cadets de l’Air / IACE France — Aéro-Club de France | Aucune fiction identifiée dans la conversation pour cette organisation. |
 | CW-013 | Belgique | Royal Belgian Air Cadets / Cadets de l’Air de Belgique | Aucune fiction identifiée dans la conversation pour cette organisation. |
@@ -63,13 +64,23 @@ Les identifiants renvoient à l’[annuaire mondial](README.md#annuaire-mondial)
 | CW-038 | Corée du Sud | Young Falcons of Korea | Aucune fiction identifiée dans la conversation pour cette organisation. |
 | CW-039 | Corée du Sud | Sea Explorers of Korea | Aucune fiction identifiée dans la conversation pour cette organisation. |
 
-## Filmographie
+## Sommaire de la filmographie
+
+- [Organisations jeunesse présentes dans le README](#organisations-annuaire) — 6 œuvres.
+- [Écoles militaires absentes du README](#ecoles-hors-annuaire) — 15 œuvres, avec distinction entre établissements réels et cadres fictifs.
+- [Organisations historiques absentes du README](#historiques-hors-annuaire) — 4 œuvres.
+- [Groupes aéronautiques fictifs absents du README](#groupes-fictifs-hors-annuaire) — 2 œuvres.
+- [Cas complémentaires](#cas-complementaires) — 3 productions en annexe.
+
+### Lecture des liens de visionnement
 
 Les liens de plateforme ci-dessous sont les **pistes conservées de la conversation**, principalement collectées les 3–4 octobre 2026. Ils ne garantissent ni lecture intégrale, ni gratuité, ni accès depuis le Canada. Une fiche de catalogue ou un comparateur n’est pas un lecteur vidéo. « Aucun lien » signifie qu’aucune adresse exploitable n’a été conservée.
 
 Les liens Wink ont été remplacés par CTC pour *Kadetstvo* et KION pour *Suvorovets 1944*. La page KION a pu être consultée lors de cette compilation; la lecture au Canada n’a pas été testée. Le contrôle automatisé a rencontré des refus HTTP 403 sur CTC, TCM et Filmový přehled, ainsi qu’une connexion interrompue sur Tubi pour *Iron Eagle IV*. Ces résultats ne prouvent pas la disparition des pages; les notices TCM et Filmový přehled ont aussi été consultées par le navigateur de recherche.
 
-### Organisations jeunesse présentes dans le README
+<a id="organisations-annuaire"></a>
+
+## Organisations jeunesse présentes dans le README
 
 <a id="film-11"></a>
 
@@ -145,7 +156,23 @@ Les liens Wink ont été remplacés par CTC pour *Kadetstvo* et KION pour *Suvor
 
 **Lien ou piste de visionnement :** [Vidéo YouTube](https://www.youtube.com/watch?v=q6oDYStjuI4) — version doublée en hindi indiquée dans la conversation.
 
-### Écoles militaires secondaires et JROTC absents du README
+<a id="ecoles-hors-annuaire"></a>
+
+## Écoles militaires absentes du README
+
+Les écoles sont regroupées ici selon leur cadre scolaire, même lorsque l’établissement du récit est fictif. Elles sont séparées des groupes aéronautiques fictifs, qui ne sont pas des écoles militaires. Aucun identifiant CW ne leur est attribué.
+
+| Nature du cadre | Établissement ou famille | Œuvres |
+|---|---|---|
+| École réelle | Culver Military Academy | [Tom Brown of Culver](#film-1), [The Spirit of Culver](#film-2) |
+| École réelle | École des mousses | [Les Cadets de l’Océan](#film-4) |
+| Famille d’écoles réelles | Écoles Souvorov | [L’Honneur du camarade](#film-6), [Alye Pogony](#film-13), [Kadetstvo](#film-24), [Suvorovets 1944](#film-27) |
+| Écoles fictives; programme JROTC réel | Sheridan Academy et Madison Academy | [The Private War of Major Benson](#film-9), [Major Payne](#film-20) |
+| Écoles fictives | Bunker Hill Military Academy et académie de Cadet Kelly | [Taps](#film-15), [Cadet Kelly](#film-23) |
+| Cadre scolaire militaire; rattachement réel non établi | Écoles représentées dans les deux œuvres | [Military Academy](#film-3), [Hard Knox](#film-17) |
+| Collèges fictifs rapprochés d’un établissement réel | Univers de The Citadel; Carolina Military Institute dans The Lords of Discipline | [The Strange One](#film-10), [The Lords of Discipline](#film-16) |
+
+### Écoles secondaires et programmes JROTC
 
 <a id="film-1"></a>
 
@@ -331,7 +358,11 @@ Les liens Wink ont été remplacés par CTC pour *Kadetstvo* et KION pour *Suvor
 
 **Lien ou piste de visionnement :** [Page sur Apple TV Canada](https://tv.apple.com/ca/movie/the-lords-of-discipline/umc.cmc.38hwuaa4kyef70lrdkihbglbs)
 
-### Organisations historiques de préparation à la défense
+<a id="historiques-hors-annuaire"></a>
+
+## Organisations historiques absentes du README
+
+Służba Polsce, Svazarm et la GST sont des organismes historiques réels. Ils restent distincts des écoles militaires et des groupes inventés pour le cinéma; aucun identifiant CW ne leur est attribué.
 
 <a id="film-5"></a>
 
@@ -387,7 +418,16 @@ Les liens Wink ont été remplacés par CTC pour *Kadetstvo* et KION pour *Suvor
 
 **Source de précision :** [Synopsis MDR](https://www.mdr.de/tv/programm/sendung-1106816.html).
 
-### Organisations aéronautiques jeunesse fictives
+<a id="groupes-fictifs-hors-annuaire"></a>
+
+## Groupes aéronautiques fictifs absents du README
+
+Ces deux programmes sont des créations du récit. Leur ressemblance avec des activités de cadets de l’air ne constitue pas un rattachement au Civil Air Patrol ou à une autre organisation de l’annuaire.
+
+| Groupe fictif | Œuvre | Statut dans l’annuaire |
+|---|---|---|
+| Club aéronautique jeunesse | [Iron Eagle](#film-18) | Hors annuaire; aucun identifiant CW |
+| Programme de pilotage pour jeunes | [Iron Eagle IV: On the Attack](#film-21) | Hors annuaire; aucun identifiant CW |
 
 <a id="film-18"></a>
 
@@ -397,7 +437,7 @@ Les liens Wink ont été remplacés par CTC pour *Kadetstvo* et KION pour *Suvor
 |---|---|---|
 | États-Unis / Canada | Film | Anglais |
 
-**Organisation / cadre :** Club aéronautique jeunesse fictif; rapprochement thématique avec CW-010 seulement. Civil Air Patrol non confirmé.
+**Organisation / cadre :** Club aéronautique jeunesse fictif; aucun rattachement institutionnel confirmé au Civil Air Patrol.
 
 **Lien ou piste de visionnement :** [Page sur Apple TV Canada](https://tv.apple.com/ca/movie/iron-eagle/umc.cmc.6hlwu6mf2llwqcqypqfmyuurk)
 
@@ -409,9 +449,11 @@ Les liens Wink ont été remplacés par CTC pour *Kadetstvo* et KION pour *Suvor
 |---|---|---|
 | Canada / États-Unis (à confirmer) | Film | Anglais |
 
-**Organisation / cadre :** Programme fictif de pilotage pour jeunes; rapprochement thématique avec CW-010 seulement.
+**Organisation / cadre :** Programme fictif de pilotage pour jeunes; aucun rattachement institutionnel confirmé à une organisation de l’annuaire.
 
 **Lien ou piste de visionnement :** [Page Tubi Canada](https://tubitv.com/fr-ca/movies/369853/iron-eagle-on-the-attack)
+
+<a id="cas-complementaires"></a>
 
 ## Cas complémentaires et exclusions
 
