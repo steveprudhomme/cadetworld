@@ -378,6 +378,8 @@ Służba Polsce, Svazarm et la GST sont des organismes historiques réels. Ils r
 
 **Lien ou piste de visionnement :** Aucun lien de visionnement conservé.
 
+**Critique :** [First Start / Pierwszy start — 3,5 / 5, par Steve Prud’Homme](critiques/FirstStart.md), avec lien vers Letterboxd.
+
 <a id="film-7"></a>
 
 #### Návštěva z oblak (1954 (sortie 1955))
