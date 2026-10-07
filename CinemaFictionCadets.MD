@@ -282,6 +282,8 @@ Les écoles sont regroupées ici selon leur cadre scolaire, même lorsque l’é
 
 **Lien ou piste de visionnement :** [Page Tubi Canada](https://tubitv.com/fr-ca/movies/100018736/hard-knox)
 
+**Critique :** [Hard Knox — ★★★☆☆, par Steve Prud’Homme](critiques/HardKnox.md), avec illustration et liens vers Letterboxd et SensCritique.
+
 <a id="film-20"></a>
 
 #### Major Payne (1995)
